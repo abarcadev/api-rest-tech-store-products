@@ -1,4 +1,4 @@
-# API REST Tech Store Products
+# Products Tech Store REST API 
 
 ## Overview
 Endpoints: products
