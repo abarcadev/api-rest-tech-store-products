@@ -5,7 +5,7 @@ Endpoints: products
 
 ## Technologies
 * Express with TypeScript.
-* MongoBD database with Mongoose ODM or PostgreSQL database with Prisma ORM.
+* MongoDB database with Mongoose ODM or PostgreSQL database with Prisma ORM.
 * Validation env with env-var.
 
 ## Design patterns
