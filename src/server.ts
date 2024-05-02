@@ -39,7 +39,7 @@ export default class Server {
     }
 
     async start(): Promise<void> {
-        process.env.TZ = 'America/Guayaquil';
+        process.env.TZ = env.TIME_ZONE;
         
         await this._startDbConnection();
         
